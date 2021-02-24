@@ -1,0 +1,19 @@
+@media(max-width:1200px){}
+@media(max-width:991px){
+  .header__btn{
+    margin-left: 0;
+    margin-bottom: 15px;
+  }
+  .navbar-collapse{
+    display: flex;
+    flex-direction: column;
+    
+  }
+}
+@media(max-width:882px){
+  .maqolalar{
+    grid-template-columns: 1fr;
+  }
+}
+@media(max-width:768px){}
+@media(max-width:576px){}
